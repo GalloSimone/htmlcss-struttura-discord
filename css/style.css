@@ -14,3 +14,17 @@
     width: 1000px;
     max-width: 100%;
   }
+  /* # HEADER*/
+  .header{
+    display: flex;
+    justify-content: space-around;
+    
+    background-color: darkorange;
+    min-height: 35px;
+    align-items: center;
+    border: dashed black 2px;
+   
+  }
+.logo{
+
+}
