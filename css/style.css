@@ -17,14 +17,15 @@
   /* # HEADER*/
   .header{
     display: flex;
-    justify-content: space-around;
-    
+    justify-content: space-evenly;
     background-color: darkorange;
     min-height: 35px;
+    border: dashed black 2px,;
     align-items: center;
-    border: dashed black 2px;
-   
-  }
-.logo{
+    margin-left: 300px;
+    margin-right: 300px;
 
+  }
+.background-container{
+    background-color: blue;
 }
