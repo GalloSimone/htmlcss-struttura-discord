@@ -17,13 +17,14 @@
   /* # HEADER*/
   .header{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     background-color: darkorange;
     min-height: 35px;
     border: dashed black 2px,;
     align-items: center;
    margin-left: 25%;
 margin-right: 25%;
+padding: 10px;
   }
   .logo{
   display: flex;
@@ -45,7 +46,7 @@ margin-right: 25%;
 .section-one{
     margin-left: 500px;
     margin-top: 20px;
-    width: 550px;
+    width: 550;
     background-color: pink;
     height: 200px;
     border: dashed black 2px;
@@ -56,4 +57,33 @@ ul{
 }
 li{
     display: inline-block;
+}
+hr{
+    
+    margin-top: 20px;
+  border: solid rgb(0, 229, 255) 1px;
+}
+.section-2{
+    margin-left: 500px;
+    margin-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   background-color:dodgerblue;
+   width: 550px;
+   height: 200px;
+   border: dashed black 2px;
+}
+.section3 {
+    background-color: #f1f1f1;
+
+}
+.blue-box{
+    width: 50%;
+    height: 200px;
+    background-color: #4da8f0;
+}
+.pink-box{
+    width: 10%;
+    height: 200px;
+    background-color: #f5a6d7;
 }
