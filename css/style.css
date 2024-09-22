@@ -134,3 +134,22 @@ li{
     background-color: #4dd3c9;
     border: dashed rgb(255, 255, 255) 2px,;
 }
+footer {
+    display: flex;
+  justify-content: space-between;
+    background-color: #7cc3be;
+    padding: 10px;
+    align-items: center;
+}
+
+footer .footer-logo {
+    font-size: 18px;
+    border: dashed black 2px;
+    background-color: #f18d75;
+}
+
+footer .footer-text {
+    font-size: 18px;
+    border: dashed black 2px;
+    background-color: #f18d75;
+}
