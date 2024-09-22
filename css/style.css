@@ -107,3 +107,30 @@ li{
 .section3 {
     background-color: #b3b3b3;
 }
+.section5 {
+    background-color: #b3b3b3;
+}
+
+ .green-box {
+    background-color: green;
+    width: 51%;
+    height: 300px;
+}
+
+.section6 {
+    background-color: #333;
+}
+
+.section6 .red-box {
+    width: 25%;
+    height: 450px;
+    background-color: #f18d75;
+    border: dashed black 2px,;
+}
+
+.section6 .turquoise-box {
+    width: 8%;
+    height: 450px;
+    background-color: #4dd3c9;
+    border: dashed rgb(255, 255, 255) 2px,;
+}
