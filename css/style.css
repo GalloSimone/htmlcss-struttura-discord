@@ -67,3 +67,43 @@ li{
     background-color: #f5a6d7;
     border: dashed black 2px;
 }
+.section2, .section3, .section4 {
+    background-color: #f1f1f1;
+}
+
+.section2 .blue-box, .section3 .blue-box, .section4 .blue-box {
+    width: 60%;
+    height: 260px;
+    background-color: #4da8f0;
+    border: dashed black 2px,;
+    margin-left: 300px;
+}
+
+.section2 .pink-box, .section4 .pink-box {
+    width: 40%;
+    height: 260px;
+    background-color: #f5a6d7;
+    border: dashed black 2px,;
+    margin-right: 300px;
+}
+.section3 .pink-box{
+    width: 60%;
+    height: 260px;
+    background-color: #f5a6d7;
+    border: dashed black 2px ;
+    margin-left: 300px;
+    
+
+}
+.section3 .blue-box{
+    width: 40%;
+    height: 260px;
+    background-color: #4da8f0;
+    border: dashed black 2px;
+    margin-right: 300px;
+    margin-left: 0;
+}
+
+.section3 {
+    background-color: #b3b3b3;
+}
